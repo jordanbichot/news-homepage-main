@@ -41,8 +41,10 @@ Movile
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Self-hosting fonts explained (including Google fonts) // @font-face tutorial](https://www.youtube.com/watch?v=zK-yy6C2Nck)
+- [How to make darken Background Image](https://www.youtube.com/watch?v=CQzHzsSLa_w)
+- [Learn CSS Animations In 20 Minutes - For Beginners](https://www.youtube.com/watch?v=SgmNxE9lWcY&t=4s)
+- [Exploring CSS Grid](https://www.youtube.com/watch?v=yVVnFgycdOA&t=8s)
 
 ## Author
 
